@@ -12,5 +12,13 @@
 ##### 13.6 add login service to get token and expiretion date 
 
 ##  14 Deploying ASP.NET Core Apps
-1- use and install gulp and what is minify javascript ,minify css 
-2- use and install gulp-uglify
+#### 14.1- use and install gulp and what is minify javascript ,minify css 
+#### 14.2- use and install gulp-uglify
+#### 14.3- Environment Tag Helpers and add Environment include ,exclude 
+#### 14.4-Setting up Deployment Scripts in subfic stage  or production 
+#### 14.5-Publishing to a Directory
+#### 14.6-Publishing to Azure
+#### 14.7-Publishing to IIS
+#### 14.8-Publishing Using the CLI
+#### 14.9-Publishing with Runtime
+
